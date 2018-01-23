@@ -1,0 +1,8 @@
+.validatorFail {
+    color: red;
+    font-weight: bold;
+}
+
+.validatorPass{
+    color: green;
+}

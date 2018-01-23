@@ -1,0 +1,10 @@
+.char {
+    display: inline-block;
+    box-sizing: 10px;
+    inline-size: 10px;
+    padding: 0px 7px 5px 7px;
+    height: 30px;
+    text-align: center;
+    margin: 1px;
+    border: 1px solid black;
+}
